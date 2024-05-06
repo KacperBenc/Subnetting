@@ -4,5 +4,8 @@ public class Main {
     public static void main(String[] args) {
     Mask maska = new Mask();
         System.out.println(maska.name);
+        System.out.println("jerzy");
+        System.out.println("zmiana");
+
     }
 }
