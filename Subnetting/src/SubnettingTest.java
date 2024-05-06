@@ -8,5 +8,6 @@ public class SubnettingTest {
         Mask maska = new Mask();
         System.out.println(maska.name);
         System.out.println("jerzy");
+        System.out.println("zmiana");
     }
 }
